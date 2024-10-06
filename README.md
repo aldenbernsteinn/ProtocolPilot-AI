@@ -20,3 +20,5 @@ ProtocolPilot aims to significantly reduce the time and effort required for comp
 - **Langchain** for RAG implementation
 - **Ollama** for local language model integration
 - **Chroma** for vector store and similarity search
+
+## More Information Will Be Available Soon
