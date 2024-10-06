@@ -1,4 +1,4 @@
-![ProtocolPilotmockup](https://github.com/user-attachments/assets/39283acd-9fba-44f9-bc1f-9bccef948891)
+![ProtocolPilotgitpic](https://github.com/user-attachments/assets/fdc95629-ed0d-4a98-840a-6ce1790f8fac)
 
 **ProtocolPilot** is a compact AI-driven application designed to automate compliance verification across various professional domains. Leveraging multi-source Retrieval Augmented Generation (RAG), the system performs intelligent comparisons between industry handbooks/standards and specific documents, all locally on your machine.
 
